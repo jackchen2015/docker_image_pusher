@@ -6,3 +6,4 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #paddleocr:2.6-cpu-latest
 python:alpine3.19
+paddlecloud/paddleocr:2.6-cpu-latest
