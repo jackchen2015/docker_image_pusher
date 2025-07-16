@@ -1,3 +1,4 @@
-docker.elastic.co/elasticsearch/elasticsearch:7.6.2
-docker.io/library/python:3.10-bullseye
-mobz/elasticsearch-head:5
+#docker.elastic.co/elasticsearch/elasticsearch:7.6.2
+#docker.io/library/python:3.10-bullseye
+#mobz/elasticsearch-head:5
+docker.all-hands.dev/all-hands-ai/runtime:0.28-nikolaik
