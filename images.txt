@@ -2,5 +2,7 @@
 #docker.io/library/python:3.10-bullseye
 #mobz/elasticsearch-head:5
 #docker.all-hands.dev/all-hands-ai/runtime:0.48-nikolaik
-docker.all-hands.dev/all-hands-ai/openhands:0.28
-docker.all-hands.dev/all-hands-ai/openhands:0.48
+#docker.all-hands.dev/all-hands-ai/openhands:0.28
+#docker.all-hands.dev/all-hands-ai/openhands:0.48
+docker.io/uifd/ui-for-docker
+portainer/portainer:latest
